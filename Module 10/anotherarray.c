@@ -1,4 +1,4 @@
-Copy elements from 2 arrays to another array
+// Copy elements from 2 arrays to another array
 
 #include <stdio.h>
 int main()
